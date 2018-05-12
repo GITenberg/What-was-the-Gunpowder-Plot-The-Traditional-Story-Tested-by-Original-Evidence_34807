@@ -1,0 +1,27 @@
+_repo: What-was-the-Gunpowder-Plot-The-Traditional-Story-Tested-by-Original-Evidence_34807
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerard, John
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '36738'
+    url: http://www.gutenberg.org/2009/agents/36738
+description: ''
+gutenberg_issued: '2011-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34807'
+  lccn: 06018828
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gunpowder Plot, 1605'
+- !lcc 'DA'
+title: What was the Gunpowder Plot? The Traditional Story Tested by Original Evidence
+url: http://www.gutenberg.org/ebooks/34807
