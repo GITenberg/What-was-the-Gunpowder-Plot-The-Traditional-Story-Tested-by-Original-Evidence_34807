@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36738'
     url: http://www.gutenberg.org/2009/agents/36738
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34807#What-was-the-Gunpowder-Plot-The-Traditional-Story-Tested-by-Original-Evidence
 gutenberg_issued: '2011-01-01'
 gutenberg_type: Text
 identifiers:
